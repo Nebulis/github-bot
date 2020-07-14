@@ -3,6 +3,23 @@
 
 ### Features
 
+* release ([e0466cb](https://github.com/Nebulis/github-bot/commit/e0466cbd309064dda60a56a96ef92d63d63bd658))
+* release ([7e817d5](https://github.com/Nebulis/github-bot/commit/7e817d5b51f7a5598617f9b7940ea8e4e4658b41))
+* release ([e70c753](https://github.com/Nebulis/github-bot/commit/e70c753e888af268b8f1e5d6394d8f6a1b7dd9ad))
+* release ([415cd33](https://github.com/Nebulis/github-bot/commit/415cd339152634c2f400276366610d9f5e88567d))
+* trigger release ([70bacc9](https://github.com/Nebulis/github-bot/commit/70bacc9f08a1ebed1d38441bccb63f59523a7e2f))
+
+
+### Miscellaneous
+
+* **version:** Release 1.0.0 [skip ci] ([d39cb82](https://github.com/Nebulis/github-bot/commit/d39cb82125c5ed04d006fed941b13557f960a90d))
+* Initial commit ([5dbab67](https://github.com/Nebulis/github-bot/commit/5dbab67bc185806c7e9dfe85a242adbe8860a619))
+
+# 1.0.0 (2020-07-14)
+
+
+### Features
+
 * release ([7e817d5](https://github.com/Nebulis/github-bot/commit/7e817d5b51f7a5598617f9b7940ea8e4e4658b41))
 * release ([e70c753](https://github.com/Nebulis/github-bot/commit/e70c753e888af268b8f1e5d6394d8f6a1b7dd9ad))
 * release ([415cd33](https://github.com/Nebulis/github-bot/commit/415cd339152634c2f400276366610d9f5e88567d))
