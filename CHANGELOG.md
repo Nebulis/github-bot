@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Nebulis/github-bot/compare/v1.0.0...v1.0.1) (2020-07-14)
+
+
+### Bug Fixes
+
+* cli and binary ([121a997](https://github.com/Nebulis/github-bot/commit/121a997d1ac896759e77bb5f97f3d1dc3ab2928f))
+
 # 1.0.0 (2020-07-14)
 
 
