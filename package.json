@@ -1,5 +1,5 @@
 {
-  "name": "github-cli",
+  "name": "@nebulis/github-cli",
   "version": "0.0.0-development",
   "description": "My node module",
   "license": "MIT",
