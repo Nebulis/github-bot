@@ -1,3 +1,17 @@
+# 1.0.0 (2020-07-14)
+
+
+### Features
+
+* release ([7e817d5](https://github.com/Nebulis/github-bot/commit/7e817d5b51f7a5598617f9b7940ea8e4e4658b41))
+* release ([e70c753](https://github.com/Nebulis/github-bot/commit/e70c753e888af268b8f1e5d6394d8f6a1b7dd9ad))
+* release ([415cd33](https://github.com/Nebulis/github-bot/commit/415cd339152634c2f400276366610d9f5e88567d))
+
+
+### Miscellaneous
+
+* Initial commit ([5dbab67](https://github.com/Nebulis/github-bot/commit/5dbab67bc185806c7e9dfe85a242adbe8860a619))
+
 # [1.8.0](https://github.com/rjchow/nod/compare/v1.7.0...v1.8.0) (2020-05-18)
 
 
