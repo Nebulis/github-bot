@@ -1,6 +1,6 @@
 {
   "name": "@nebulis/github-cli",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "My node module",
   "license": "MIT",
   "repository": "Nebulis/github-bot",
